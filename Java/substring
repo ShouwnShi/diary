@@ -1,1 +1,5 @@
+1. substring方法使用：
+substring(int start):从start位置开始截取到最后一位字符，返回截取得字符串；
+substring(int start,int end):从start到end 截取字符返回；
+坑：start 从0开始计算，end从1开始.
 
